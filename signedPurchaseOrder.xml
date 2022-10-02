@@ -1,24 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><note>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<note>
 <to>Tove</to>
 <from>Jani</from>
 <heading>Reminder</heading>
 <body>Don't forget me this weekend!</body>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>tKDaVHCywRrFbblaDIKZjUviXkI=</DigestValue></Reference></SignedInfo><SignatureValue>ijSf2j4yPkQNMRy2UzeJUwhJz2COJEx4oClizlIL7f2tcn1kdTpxkAW4axiWXQgL7TarOGammU4B&#13;
-3dxfltVeW+RK/QQUzE4rHiSzfPKzp87ZKf4ryzNcUlq2jXfQQlEPdj95OESZwO3SR/H2sIE0t6Hh&#13;
-+iAL8OmWI+roVJ7wliuss4Qcvh8M1ItkYtEr89y54+ZGOQR39zWxIhlRA68c9nyK0DmAP/R6LUIv&#13;
-H4C3Y/NKkZVwPAoIqVBf9vUmFCWjeKPw1DvAOcsm5n+mnnjIjwJkosY3cf/YW1aG026hTlbAV42A&#13;
-tYjkZVdA/uweifFKzd5PZzdXxl/iaSlP7ukSXQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=john,OU=john,O=john,L=john,ST=john,C=ke</X509SubjectName><X509Certificate>MIIDTzCCAjegAwIBAgIEDQTizzANBgkqhkiG9w0BAQsFADBYMQswCQYDVQQGEwJrZTENMAsGA1UE&#13;
-CBMEam9objENMAsGA1UEBxMEam9objENMAsGA1UEChMEam9objENMAsGA1UECxMEam9objENMAsG&#13;
-A1UEAxMEam9objAeFw0yMjA3MDMxNzIxMzBaFw0yMjEwMDExNzIxMzBaMFgxCzAJBgNVBAYTAmtl&#13;
-MQ0wCwYDVQQIEwRqb2huMQ0wCwYDVQQHEwRqb2huMQ0wCwYDVQQKEwRqb2huMQ0wCwYDVQQLEwRq&#13;
-b2huMQ0wCwYDVQQDEwRqb2huMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmC+dS6vC&#13;
-IXOWbA3ZtFrQ7UpNNxE0Z+GXZUz+0HqXHFOU1HoV1y3Z3705ueHF9OtiNpnvLPogvsskk5KBWqqP&#13;
-HkT/lWf2B+Y3LrmEWsnzUKmtgjkLwi5oF+QRBON9XG78/+3oZUVpIKgHBO1CYyN4SIuSZm/+WWUM&#13;
-8Cf98ZKUREYsOsIq037dOyNCcbMRbYIsSros7PlZ8DR6dG+KiDcp9X98oF0mpPB5WouE30mhaaOQ&#13;
-hqQ0oATC+sko2aUbVFurEDDRUtArkep5mLTsO/B5AGjh5ouk2aBqNsBm76cnRh9WFbHNwBqy0sSz&#13;
-UIZ5MjddW24KPnK5uM+wVfljUghUBQIDAQABoyEwHzAdBgNVHQ4EFgQUNxB2xFOF3qXiEgTUQhQu&#13;
-JEMFea0wDQYJKoZIhvcNAQELBQADggEBADCXraOSczy7Eqa1KJ/EvWFxp8tTy+19zTZGiMdc4hgr&#13;
-VPitrEaKQOrn0eqkahhkLWs9Lxksl5MLL+2zXC55f8MxnF2hBkFfHa0CHMwlO/4b7sOyktHo5N+6&#13;
-2qhWLzN5a4XcPAoFgBLAJy4FuBzpPMJ2ejPRx5XauOVfCw72S4KXFpOhDGaKSPCnGtnqAFDU1cFm&#13;
-sAsokQwWjc9kmUrlhc3uLfe29ir/Jnd29kX2Du4imY6CpmdqbYnCHyVaMcg8ilTNDxE6u9OArW2+&#13;
-yk3pD+T3wyzRFNBmWUBuQSzvtxVA3F8G99ExnpnDM6pkPxF6UUk3LlvcUffhg8nTbLGXpcE=</X509Certificate></X509Data></KeyInfo></Signature></note>
+</note>
